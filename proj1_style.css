@@ -1,0 +1,102 @@
+.light{
+ 	color:LightPink;
+ 	font-family:zapfino; 
+ 	font-size: 90%;
+ }
+.center_img{
+	width:1200px;
+	margin: 0 auto;
+}
+.center_img img{
+	width:100%;
+}
+.background_color {
+	background-color:Black;
+}
+.color_white{
+	color:White;
+	font-family:tahoma;
+}
+.futura_marquee{
+	font-family:futura;
+}
+.futura{
+	font-family:futura;
+}
+.hot_pink_zapfino{
+	color:HotPink;
+	font-family:zapfino;
+	font-size: 100%;
+}
+.light_pink_zapfino{
+	color:LightPink;
+	font-family:zapfino;
+	font-size: 90%;
+}
+.hot{
+	color:HotPink;
+	font-family:zapfino;
+	font-size: 90%;
+}
+.lpink{
+	color:LightPink;
+	font-family:zapfino;
+	font-size: 90%;
+}
+.hpink{
+	color:HotPink;
+	font-family:zapfino;
+	font-size: 90%;
+}
+.lpink_zapfino{
+	color:LightPink;
+	font-family:zapfino;
+	font-size: 90%;
+}
+.hpink_zapfino{
+	color:HotPink;
+	font-family:zapfino;
+	font-size: 90%;
+}
+.zapfino_hp{
+	color:HotPink;
+	font-family:zapfino;
+	font-size: 90%;
+}
+.hotpink_z{
+	color:HotPink;
+	font-family:zapfino;
+	font-size: 90%;
+}
+.lpink_z{
+	color:LightPink;
+	font-family:zapfino;
+	font-size: 90%;
+}
+.hotpinkz{
+	color:HotPink;
+	font-family:zapfino;
+	font-size: 90%;
+}
+.zaphotpink{
+	color:Hotink;
+	font-family:zapfino;
+	font-size: 90%;
+}
+.lightp{
+	color:LightPink;
+	font-family:zapfino;
+	font-size: 90%;
+}
+.hotzapp{
+	color:HotPink;
+	font-family:zapfino;
+	font-size: 90%;
+}
+.lightpzapfino{
+	color:LightPink;
+	font-family:zapfino;
+	font-size: 130%;
+}
+
+

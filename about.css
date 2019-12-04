@@ -1,0 +1,39 @@
+.title{
+	font-family: didot;
+	font-size: 70px;
+	background-color: black;
+	color: white;
+}
+
+.text p {
+  overflow: hidden;
+  border-right: .15em solid orange;
+  white-space: nowrap;
+  margin: 0 auto;
+  letter-spacing: .15em;
+  animation: 
+    typing 4s steps(40, end),
+    blink-caret .75s step-end infinite;
+}
+
+@keyframes typing {
+  from { width: 0% }
+  to { width: 100% }
+}
+
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: black; }
+}
+
+.photo{
+	position: relative;
+	top:-40px;
+}
+
+.photo:hover{
+	position: relative;
+	top:-40px;
+	opacity: 0%;
+	transition: 2s;
+}

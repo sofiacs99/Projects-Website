@@ -1,0 +1,84 @@
+.parent{
+	width:90vw;
+display:grid;
+grid-template-columns:1fr 1fr 1fr;
+grid-template-rows:1fr 1fr 1fr;
+}
+img{
+	width:100%;
+}
+.title{
+	font-size: 25px;
+}
+
+.facebook{
+	position: relative;
+	transform: translate(0em);
+	width:50px;
+	height:50px;
+	top:-5px;
+}
+
+.ig{
+	position: relative;
+	transform: translate(1em);
+	width:50px;
+	height:50px;
+	top:-5px;
+}
+
+.twitter{
+	position: relative;
+	transform: translate(2em);
+	width:50px;
+	height:50px;
+	top:-5px;
+}
+
+.youtube{
+	position: relative;
+	transform: translate(3em);
+	width:65px;
+	height:50px;
+	top:-5px;
+}
+
+.nav_link{
+	transform: translate(25em);
+	font-family: Arial;
+	position: fixed;
+	background-color: white;
+	top: 7px;
+}
+
+.nav_link2{
+	transform: translate(35em);
+	font-family: Arial;
+	position: fixed;
+	background-color: white;
+	top: 7px;
+}
+
+.nav_link3{
+	transform: translate(45em);
+	font-family: Arial;
+	position: fixed;
+	background-color: white;
+	top: 7px;
+}
+
+.nav_link4{
+	transform: translate(55em);
+	font-family: Arial;
+	position: fixed;
+	background-color: white;
+	top: 7px;
+}
+
+.nav_link5{
+	transform: translate(70em);
+	font-family: Arial;
+	position: fixed;
+	background-color: white;
+	top: 7px;
+}

@@ -1,0 +1,151 @@
+
+.title{
+	font-size: 50px;
+	font-family: Didot;
+	position:relative;
+	color:white;
+}
+
+.subh{
+	font-size: 50px;
+	font-family: didot;
+	position:relative;
+	top: -60px;
+	color:white;
+}
+.about{
+	font-size: 30px;
+	font-family: didot;
+	position:relative;
+	top: -40px;
+	color:white;
+}
+#exercise{
+	font-size: 22px;
+	font-family: helvetica;
+	position:relative;
+	top: -25px;
+	color:white;
+}
+#E1{
+	font-size: 30px;
+	font-family: didot;
+	position:relative;
+	color:white;
+	top:-475px;
+	transform: translate(95px);
+}
+
+#E2{
+	font-size: 30px;
+	font-family: didot;
+	position:relative;
+	color:white;
+	top:-540px;
+	transform: translate(345px);
+}
+
+#E3{
+	font-size: 30px;
+	font-family: didot;
+	position:relative;
+	color:white;
+	top:-610px;
+	transform: translate(595px);
+}
+
+#E4{
+	font-size: 30px;
+	font-family: didot;
+	position:relative;
+	color:white;
+	top:-680px;
+	transform: translate(840px);
+}
+
+#button{
+	position: relative;
+	top:25px;
+}
+
+#button2{
+	position: relative;
+	top:-106px;
+	transform: translate(250px);
+}
+
+#button3{
+	position: relative;
+	top:-235px;
+	transform: translate(500px);
+}
+
+#button33{
+	position: relative;
+	top:-365px;
+	transform: translate(750px);
+}
+
+#project{
+	font-size: 22px;
+	font-family: helvetica;
+	position:relative;
+	top: -650px;
+	color:white;
+}
+
+#button4{
+	position: relative;
+	top:25px;
+}
+
+#button5{
+	position: relative;
+	top:-106px;
+	transform: translate(250px);
+}
+
+#button6{
+	position: relative;
+	top:-235px;
+	transform: translate(500px);
+}
+
+#button7{
+	position: relative;
+	top:-364px;
+	transform: translate(750px);
+}
+
+#P1{
+	font-size: 30px;
+	font-family: didot;
+	position:relative;
+	color:white;
+	top:-478px;
+	transform: translate(95px);
+}
+#P2{
+	font-size: 30px;
+	font-family: didot;
+	position:relative;
+	color:white;
+	top:-545px;
+	transform: translate(345px);
+}
+#P3{
+	font-size: 30px;
+	font-family: didot;
+	position:relative;
+	color:white;
+	top:-613px;
+	transform: translate(595px);
+}
+#P4{
+	font-size: 30px;
+	font-family: didot;
+	position:relative;
+	color:white;
+	top:-682px;
+	transform: translate(845px);
+}
